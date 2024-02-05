@@ -1,0 +1,13 @@
+tipo:Extra:14500:15000.0
+tipo:Corriente:14000:18000.0
+tipo:Plus Diesel:20000:180.0
+tipo:Diesel:9056:100.0
+surtidor:Luis:Extra:0.0:Corriente:0.0:Plus Diesel:0.0:Diesel:0.0
+surtidor:Fincho:Extra:0.0:Corriente:0.0:Plus Diesel:0.0:Diesel:0.0
+surtidor:Carmen:Extra:0.0:Corriente:0.0:Plus Diesel:0.0:Diesel:0.0
+surtidor:Juan:Extra:0.0:Corriente:0.0:Plus Diesel:0.0:Diesel:0.0
+empleado:Fincho:0
+empleado:Carmen:0
+empleado:Luis:0
+empleado:Juan:0
+empleado:Pepe:0
